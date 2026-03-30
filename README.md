@@ -5,7 +5,7 @@
 <h3 align="center">🎓 Data Science Student @ IIT Madras | ML Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/JJWCpf3.png" alt="Banner" width="100%" />
+  <img src="Nandini Banner.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
