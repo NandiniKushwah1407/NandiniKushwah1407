@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Nandini+Kushwah;Data+Science+%7C+Machine+Learning+%7C+AI+Enthusiast;Building+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🎓 Data Science Student @ IIT Madras | ML Engineer | Full Stack Developer</h3>
+<h3 align="center"> ML Engineer | Data Science Student | Full Stack Developer | IIT Madras</h3>
 
 <p align="center">
   <img src="Nandini Banner.png" alt="Banner" width="100%" />
