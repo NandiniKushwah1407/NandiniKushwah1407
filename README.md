@@ -23,23 +23,15 @@ class DataScientist:
         self.name = "Nandini Kushwah"
         self.role = "Data Science Student & ML Engineer"
         self.institution = "Indian Institute of Technology Madras"
-        self.current_focus = ["Deep Learning", "NLP", "System Architecture"]
-        self.interests = ["AI Research", "Full Stack Development", "Cloud Computing"]
+        self.current_focus = ["Deep Learning", "NLP", "Computer Vision"]
+        self.interests = ["AI Research and Modelling", "Full Stack Development"]
     
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+        print("Thanks for dropping by!")
 
 me = DataScientist()
 me.say_hi()
 ```
-
-- 🔭 Currently working on **AI-powered Chrome Extensions** and **AB Testing Automation Platforms**
-- 🌱 Mastering **TensorFlow, PyTorch, Transformers, Docker & Kubernetes**
-- 💡 Passionate about building **end-to-end ML pipelines** and **scalable systems**
-- 📚 Deep diving into **System Architecture** and **Design Patterns**
-- 💬 Ask me about **Machine Learning, Data Science, System Design, or Python**
-- ⚡ Fun fact: I love solving algorithmic challenges and building intelligent applications!
-
 ---
 
 ## 🎯 Featured Projects
